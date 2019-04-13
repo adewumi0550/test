@@ -1,2 +1,2 @@
 # test
-This is the first testing on github
+PHP Codeigniter Frame-work github
