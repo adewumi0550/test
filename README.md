@@ -1,2 +1,2 @@
-# test
-PHP Codeigniter Frame-work github
+# Open Banking API Account
+Open Bank Account Validation for Nigeria Bank Account Name
